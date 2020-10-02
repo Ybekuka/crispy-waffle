@@ -1,7 +1,6 @@
-<p align="center"># CRISPY WAFFLE</p>
+# CRISPY WAFFLE
 
-##A Laravel repo for training purposes.
-
+## A Laravel repo for training purposes.
 
 ## License
 
